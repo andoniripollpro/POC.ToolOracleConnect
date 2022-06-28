@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\optiva\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\optiva\\.nuget\\packages"
-    ]
-  }
-}
