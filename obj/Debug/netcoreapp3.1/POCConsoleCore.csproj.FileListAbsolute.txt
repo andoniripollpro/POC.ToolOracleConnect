@@ -1,0 +1,13 @@
+C:\DesarrolloAps\source\POCConsoleCore\bin\Debug\netcoreapp3.1\POCConsoleCore.exe
+C:\DesarrolloAps\source\POCConsoleCore\bin\Debug\netcoreapp3.1\POCConsoleCore.deps.json
+C:\DesarrolloAps\source\POCConsoleCore\bin\Debug\netcoreapp3.1\POCConsoleCore.runtimeconfig.json
+C:\DesarrolloAps\source\POCConsoleCore\bin\Debug\netcoreapp3.1\POCConsoleCore.runtimeconfig.dev.json
+C:\DesarrolloAps\source\POCConsoleCore\bin\Debug\netcoreapp3.1\POCConsoleCore.dll
+C:\DesarrolloAps\source\POCConsoleCore\bin\Debug\netcoreapp3.1\POCConsoleCore.pdb
+C:\DesarrolloAps\source\POCConsoleCore\obj\Debug\netcoreapp3.1\POCConsoleCore.csproj.AssemblyReference.cache
+C:\DesarrolloAps\source\POCConsoleCore\obj\Debug\netcoreapp3.1\POCConsoleCore.AssemblyInfoInputs.cache
+C:\DesarrolloAps\source\POCConsoleCore\obj\Debug\netcoreapp3.1\POCConsoleCore.AssemblyInfo.cs
+C:\DesarrolloAps\source\POCConsoleCore\obj\Debug\netcoreapp3.1\POCConsoleCore.csproj.CoreCompileInputs.cache
+C:\DesarrolloAps\source\POCConsoleCore\obj\Debug\netcoreapp3.1\POCConsoleCore.dll
+C:\DesarrolloAps\source\POCConsoleCore\obj\Debug\netcoreapp3.1\POCConsoleCore.pdb
+C:\DesarrolloAps\source\POCConsoleCore\obj\Debug\netcoreapp3.1\POCConsoleCore.genruntimeconfig.cache
